@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson10-factory-function-show-pets-status",
+  "version": "1.0.0",
+  "description": "Factory function. Show pets status when click button",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "factory function"
+  ]
+}
